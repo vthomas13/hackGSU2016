@@ -1,0 +1,19 @@
+.bug{
+	width:100px;
+	height:100px;
+}
+#score{
+	float:right;
+	color:white; 
+	position:relative;
+}
+*:focus {
+outline: 0;
+outline: none;
+}
+body{
+	background-color: #000;
+/*	background-image: url("grass3.png");
+	background-size: 100px 100px;
+*/
+}
